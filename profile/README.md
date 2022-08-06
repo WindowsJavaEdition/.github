@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="800" height="125" src="https://media.discordapp.net/attachments/829693308972171284/829710872918229062/variation2.png">
+</p>
+
 Welcome to Windows Java!
 ======
 This is a project ran by 2 people (EpicPix and piXel_is_gaming) that is a modified/hacked version of Windows 7, that plans to be **mostly** based on Java.
