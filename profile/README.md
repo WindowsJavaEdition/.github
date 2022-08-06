@@ -9,7 +9,7 @@ This is a project ran by 2 people (EpicPix and piXel_is_gaming) that is a modifi
 - E-mail: windowsjavaedition@gmail.com
 - Discord server: not yet ready
 ###### piXel_is_gaming:
-- Twitter: @piXel_is_gaming
+- Twitter: [@piXel_is_gaming](https://twitter.com/piXel_is_gaming "piXel's Twitter")
 - Discord user: piXel#2137
 - Discord server: not yet ready
 ###### EpicPix:
